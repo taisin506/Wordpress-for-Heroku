@@ -17,7 +17,7 @@
 **2. If you want to add any permanent theme or plugin :**<br>
 *i.   Firstly, Fork this Repo.*<br>
 *ii.  Connect with Heroku.*<br>
-*iii. Fill all Enviromet Variables.*<br>
+*iii. Fill all Enviroment Variables.*<br>
 *iv.  Download the Plugin/Themes files.*<br>
 *v.   Upload it on <tt>wp-content/plugins or themes</tt>*<br><br>
 
