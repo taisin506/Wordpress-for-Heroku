@@ -1,7 +1,9 @@
 
 [users]
 
+<?php
 $_ENV["SHELL_HASH_PASS"]
+?>
 
 [aliases]
 
