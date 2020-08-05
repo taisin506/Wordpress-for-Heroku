@@ -1,8 +1,6 @@
 
 [users]
 
-<?php echo "$HASH" ?>
-
 
 [aliases]
 
