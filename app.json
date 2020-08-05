@@ -22,6 +22,10 @@
 	"description": "MySql Database Password",
 	"value":""
         },
+      "SHELL_HASH_PASS": {
+	"description": "Goto https://shell-hasher-tuhin.herokuapp.com",
+	"value":""
+        },
 	
        "XAUTH_KEY": {
 		 "generator": "secret"
