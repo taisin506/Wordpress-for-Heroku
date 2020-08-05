@@ -3,10 +3,7 @@
 // Sendgrid settings - Read in the sendgrid auth from the config 
 // define('SENDGRID_USERNAME', $_ENV["SENDGRID_USERNAME"]);
 // define('SENDGRID_PASSWORD', $_ENV["SENDGRID_PASSWORD"]); 
-  
-
-define( 'AWS_ACCESS_KEY_ID', $_ENV["AWS_ACCESS_KEY_ID"]);
-define( 'AWS_SECRET_ACCESS_KEY', $_ENV["AWS_SECRET_ACCESS_KEY"]); 
+ 
  
 define('DB_NAME', $_ENV["DB_NAME"]);
 define('DB_USER', $_ENV["DB_USER"]);
