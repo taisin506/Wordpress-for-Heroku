@@ -1,5 +1,5 @@
 
-***Wordpress-for-Heroku** based on Wordpress Version 5.4.2. It is made for Developers and Learners to learn Wordpress or test Themes/Plugins*<br><br>
+***Wordpress-for-Heroku** based on Wordpress Version 5.4.2. It is made for Developers and Learners to learn Wordpress or test Themes/Plugins.*<br><br>
 
 ### Deploy: <br>
 *To deploy on Heroku, you just need a Remote MySql Database.*<br>
