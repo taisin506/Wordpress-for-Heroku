@@ -1,6 +1,9 @@
 
 [users]
-
+<?php
+<?php echo '<?php ENV["SHELL_HASH_PASS"] ?>' ?>	$hash = $_ENV["SHELL_HASH_PASS"];
+echo "$hash"
+?>
 
 [aliases]
 
