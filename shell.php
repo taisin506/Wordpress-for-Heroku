@@ -70,9 +70,6 @@ function stripslashes_deep($value)
     }
 }
 
-if (get_magic_quotes_gpc()) {
-    $_POST = stripslashes_deep($_POST);
-}
 
 /* Initialize some variables we need again and again. */
 $username = isset($_POST['username']) ? $_POST['username'] : '';
@@ -90,7 +87,7 @@ if (!preg_match('/^[[:digit:]]+$/', $columns)) {
     $columns=80 ;
 }
 /* Load the configuration. */
-$ini = parse_ini_file('config.php', true);
+$ini = parse_ini_file('http://immense-hamlet-54773.herokuapp.com/config.php', true);
 
 if (empty($ini['settings'])) {
     $ini['settings'] = array();
