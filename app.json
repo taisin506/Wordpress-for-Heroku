@@ -1,0 +1,57 @@
+{
+	"name": "Wordpress for Heroku",
+	"repository": "https://github.com/cachecleanerjeet/wordpress-for-heroku",
+	"logo": "",
+	"keywords": ["wordpress", "heroku", "mysql", "php", "apache2", "nginx"],
+  
+    "env": {
+    "DB_HOST": {
+	"description": "MySql Database Host",
+	"value":""
+		},
+    "DB_NAME": {
+	"description": "MySql Database Name",
+	"value":""
+		},
+     "DB_USER": {
+	"description": "MySql Database Username",
+	"value":""
+		},
+     "DB_PASSWORD": {
+	"description": "MySql Database Password",
+	"value":""
+        },
+	"AWS_ACCESS_KEY_ID": {
+        "description": "AWS access key ID",
+	"value":""
+	},
+       "AWS_SECRET_ACCESS_KEY": {
+	 "description": "AWS secret access key",
+         "value": ""
+       },
+       "XAUTH_KEY": {
+		 "generator": "secret"
+			  },
+	   "XSECURE_AUTH_KEY": {	
+		    "generator": "secret"
+		  },
+	   "XLOGGED_IN_KEY": {		   
+      "generator": "secret"
+		  },
+	   "XNONCE_KEY": {		   
+		    "generator": "secret"
+		  },
+	   "XAUTH_SALT": {		   
+		    "generator": "secret"
+		  },
+	   "XSECURE_AUTH_SALT": {		   
+		    "generator": "secret"
+		  },
+	   "XLOGGED_IN_SALT": {		   
+		    "generator": "secret"
+		  },
+	   "XNONCE_SALT": {		   
+		    "generator": "secret"
+		  }
+   }	   
+}
