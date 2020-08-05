@@ -1,4 +1,4 @@
-<?php '$hash = $_ENV["SHELL_HASH_PASS"]' ?>
+
 [users]
 
 <?php echo "$hash" ?>
