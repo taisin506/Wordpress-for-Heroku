@@ -70,9 +70,7 @@ function stripslashes_deep($value)
     }
 }
 
-if (get_magic_quotes_gpc()) {
-    $_POST = stripslashes_deep($_POST);
-}
+
 
 /* Initialize some variables we need again and again. */
 $username = isset($_POST['username']) ? $_POST['username'] : '';
