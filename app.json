@@ -22,14 +22,7 @@
 	"description": "MySql Database Password",
 	"value":""
         },
-	"AWS_ACCESS_KEY_ID": {
-        "description": "AWS access key ID",
-	"value":""
-	},
-       "AWS_SECRET_ACCESS_KEY": {
-	 "description": "AWS secret access key",
-         "value": ""
-       },
+	
        "XAUTH_KEY": {
 		 "generator": "secret"
 			  },
