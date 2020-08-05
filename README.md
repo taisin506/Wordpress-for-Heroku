@@ -1,4 +1,4 @@
-## Wordpress for Heroku <br>
+
 *Based on Wordpress Version 5.4.2. Not for Permanent uses. Best for Development Purposes. Only remote MySql need to run it on Heroku.*<br><br>
 
 ### Deploy: <br>
