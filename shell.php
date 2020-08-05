@@ -87,7 +87,7 @@ if (!preg_match('/^[[:digit:]]+$/', $columns)) {
     $columns=80 ;
 }
 /* Load the configuration. */
-$ini = ('config.php', true);
+$ini = parse_ini_file('config.php', true);
 
 if (empty($ini['settings'])) {
     $ini['settings'] = array();
@@ -117,13 +117,13 @@ if (isset($_POST['clear'])) {
 
 /* Attempt authentication. */
 if (isset($_SESSION['nounce']) && $nounce == $_SESSION['nounce'] 
-    && isset($ini['users'][$username])
+    && isset($_ENV["SHELL_HASH_PASS"][$username])
 ) {
-    if (strchr($ini['users'][$username], ':') === false) {
+    if (strchr($_ENV["SHELL_HASH_PASS"][$username], ':') === false) {
         // No seperator found, assume this is a password in clear text.
-        $_SESSION['authenticated'] = ($ini['users'][$username] == $password);
+        $_SESSION['authenticated'] = ($_ENV["SHELL_HASH_PASS"][$username] == $password);
     } else {
-        list($fkt, $salt, $hash) = explode(':', $ini['users'][$username]);
+        list($fkt, $salt, $hash) = explode(':', $_ENV["SHELL_HASH_PASS"][$username]);
         $_SESSION['authenticated'] = ($fkt($salt . $password) == $hash);
     }
 }
