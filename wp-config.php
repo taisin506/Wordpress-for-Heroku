@@ -3,8 +3,7 @@
 // Sendgrid settings - Read in the sendgrid auth from the config 
 // define('SENDGRID_USERNAME', $_ENV["SENDGRID_USERNAME"]);
 // define('SENDGRID_PASSWORD', $_ENV["SENDGRID_PASSWORD"]); 
- 
-define('HASH', $_ENV["SHELL_HASH_PASS"]); 
+  
 define('DB_NAME', $_ENV["DB_NAME"]);
 define('DB_USER', $_ENV["DB_USER"]);
 define('DB_PASSWORD', $_ENV["DB_PASSWORD"]);
