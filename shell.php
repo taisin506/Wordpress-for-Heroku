@@ -87,7 +87,7 @@ if (!preg_match('/^[[:digit:]]+$/', $columns)) {
     $columns=80 ;
 }
 /* Load the configuration. */
-$ini = parse_ini_file('config.php', true);
+$ini = ('config.php', true);
 
 if (empty($ini['settings'])) {
     $ini['settings'] = array();
