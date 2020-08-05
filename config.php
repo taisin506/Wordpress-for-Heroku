@@ -1,7 +1,7 @@
 
 [users]
 
-<?php echo "$hash" ?>
+<?php echo "$HASH" ?>
 
 
 [aliases]
