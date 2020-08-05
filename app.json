@@ -2,7 +2,7 @@
 	"name": "Wordpress for Heroku",
 	"description": "Based on Wordpress Version 5.4.2",
 	"repository": "https://github.com/cachecleanerjeet/Wordpress-for-Heroku-Latest",
-	"logo": "https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/%2B.png?alt=media&token=b589d2d6-d841-49d7-bb42-b7e4e022e73b",
+	"logo": "https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/herokuwp.png?alt=media&token=7be5bbab-4cf0-4065-bc22-84ba58eb9c23",
 	"keywords": ["wordpress", "heroku", "mysql", "php", "apache2", "nginx"],
   
     "env": {
