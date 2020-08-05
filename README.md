@@ -47,7 +47,7 @@ https://blog.iamtuhin.ga<br><br><br>
 
 
 
-[![Tuhin + Heroku + Wordpress](https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/herokuwp.png?alt=media&token=7be5bbab-4cf0-4065-bc22-84ba58eb9c23)]
+![Tuhin + Heroku + Wordpress](https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/herokuwp.png?alt=media&token=7be5bbab-4cf0-4065-bc22-84ba58eb9c23)
 
 
 
