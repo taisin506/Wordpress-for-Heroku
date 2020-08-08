@@ -18,7 +18,7 @@
 *i.   Firstly, Fork this Repo.*<br>
 *ii.  Connect with Heroku.*<br>
 *iii. Fill all Config Vars.*<br>
-*iv.  Check that for how to add Config Vars <tt>https://git.io/JJX9s</tt>*<br>
+*iv.  Check that for Config Vars Details <tt>https://git.io/JJX9s</tt>*<br>
 *v.  Download the Plugin/Themes files.*<br>
 *vi.   Upload it on <tt>wp-content/plugins or themes</tt>*<br><br>
 
