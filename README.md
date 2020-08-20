@@ -1,5 +1,14 @@
+<h1 align="center">
+  <br>
+  <a href="https://github.com/cachecleanerjeet/Wordpress-for-Heroku"><img src="https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/herokuwp.png?alt=media&token=7be5bbab-4cf0-4065-bc22-84ba58eb9c23" alt="Wordpress-for-Heroku" width="300"></a>
+  <br>
+Wordpress for Heroku
+<br>
+</h1>
 
-***Wordpress-for-Heroku** based on Wordpress Version 5.4.2. It is made for Developers and Learners to learn Wordpress or test Themes/Plugins.*<br><br>
+<h4 align="center"><a href="https://github.com/cachecleanerjeet/Wordpress-for-Heroku" target="_blank">Wordpress-for-Heroku</a> based on Wordpress Version 5.4.2. It is made for Developers and Learners to learn Wordpress or test Themes/Plugins.</h4>
+
+
 
 ### Deploy: <br>
 *To deploy on Heroku, you just need a Remote MySql Database.*<br>
@@ -64,15 +73,3 @@
   </a>
   
 </p>
-
-
-
-![Tuhin + Heroku + Wordpress](https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/herokuwp.png?alt=media&token=7be5bbab-4cf0-4065-bc22-84ba58eb9c23)
-
-
-
-
-
-
-
-
