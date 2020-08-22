@@ -48,7 +48,10 @@ Wordpress for Heroku
 **I included two Plugins:**<br>
 
 *i.  wp-file-manager - File Manager*<br>
-*ii. wpterm - Php Shell access*<br><br><br>
+*ii. wpterm - Php Shell access*<br><br>
+
+### [Changelog](https://github.com/cachecleanerjeet/Wordpress-for-Heroku/wiki/Changelog)
+<br>
 
 <p align="center"> <b>My Website & Social</b></p>
 <br>
