@@ -2,12 +2,11 @@
   <br>
   <a href="https://github.com/cachecleanerjeet/Wordpress-for-Heroku"><img src="https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/herokuwp.png?alt=media&token=7be5bbab-4cf0-4065-bc22-84ba58eb9c23" alt="Wordpress-for-Heroku" width="300"></a>
   <br>
-Wordpress for Heroku
+Wordpress for Heroku (OLD)
 <br>
 </h1>
 
-<h4 align="center"><a href="https://github.com/cachecleanerjeet/Wordpress-for-Heroku" target="_blank">Wordpress-for-Heroku</a> is based on Wordpress Version 5.4.2. It is made for Developers and Learners to learn Wordpress or test Themes/Plugins.</h4>
-
+<h4 align="center">This is based on Wordpress Version 5.4.2. It is made for Developers and Learners to learn Wordpress or test Themes/Plugins.</h4>
 <br>
 <br>
 
