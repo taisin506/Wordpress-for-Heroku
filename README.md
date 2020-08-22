@@ -17,6 +17,7 @@ Wordpress for Heroku
 **Click the 'Deploy to Heroku' button to deploy it on Heroku.**<br><br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cachecleanerjeet/Wordpress-for-Heroku-Latest/tree/latest)
 <br><br>
+### [Manually Install](https://github.com/cachecleanerjeet/Wordpress-for-Heroku/wiki/Manually-Install/ "Manually Install") <br><br>
 
 ### Limitation:<br>
 
