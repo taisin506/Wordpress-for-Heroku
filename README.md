@@ -23,7 +23,6 @@ Wordpress for Heroku
 
 **1. If Heroku Dyno Restarts you will loose all newly added files. (New Plugin, Uploaded Statics Etc.)** <br><br>
 
-### [Manually Install](https://github.com/cachecleanerjeet/Wordpress-for-Heroku/wiki/Manually-Install/ "Manually Install") <br><br>
 ### How to upload Permanent Files:<br>
 
 *Well that is simple,*<br><br>
