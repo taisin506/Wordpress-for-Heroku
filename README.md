@@ -50,7 +50,8 @@ Wordpress for Heroku
 *i.  wp-file-manager - File Manager*<br>
 *ii. wpterm - Php Shell access*<br><br>
 
-### [Changelog](https://github.com/cachecleanerjeet/Wordpress-for-Heroku/wiki/Changelog)
+### [Changelog](https://github.com/cachecleanerjeet/Wordpress-for-Heroku/wiki/Changelog) <br>
+### [Credits](https://github.com/cachecleanerjeet/Wordpress-for-Heroku/wiki/Credits)
 <br>
 
 <p align="center"> <b>My Website & Social</b></p>
