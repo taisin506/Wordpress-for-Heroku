@@ -14,8 +14,8 @@ Wordpress for Heroku
 
 ### Deploy: <br>
 *To deploy on Heroku, you just need a Remote MySql Database.*<br>
-**Click the 'Deploy to Heroku' button to install it on Heroku.**<br><br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cachecleanerjeet/Wordpress-for-Heroku-Latest/tree/master)
+**Click the 'Deploy to Heroku' button to deploy it on Heroku.**<br><br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cachecleanerjeet/Wordpress-for-Heroku-Latest/tree/latest)
 <br><br>
 
 ### Limitation:<br>
